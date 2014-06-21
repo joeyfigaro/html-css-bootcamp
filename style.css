@@ -83,7 +83,8 @@ html, .view body { background-color: black; counter-reset: slideidx; }
   }
 
   /* Transition effect */
-  /* Feel free to change the transition effect for original
+  /* Feel free to change the t
+  ransition effect for original
      animations. See here:
      https://developer.mozilla.org/en/CSS/CSS_transitions
      How to use CSS3 Transitions: */
@@ -249,7 +250,6 @@ html, .view body { background-color: black; counter-reset: slideidx; }
   }
 
   section {
-    padding: 25px;
     overflow-y: scroll;
   }
 
