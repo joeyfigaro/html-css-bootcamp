@@ -1,0 +1,40 @@
+* { box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; }
+
+body {
+  background: #b3dbf7;
+  color: #1a1a1a;
+}
+
+#vcard {
+  text-align: center;
+  line-height: 1.618;
+  width: 500px;
+  background: #fefefe;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+#vcard p {
+  text-align: left;
+}
+
+#vcard img {
+  border-radius: 50%;
+  width: 100px;
+}
+
+#vcard h1 {
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+#vcard h2 {
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+a {
+  color: #333;
+  margin: 0 10px 0 0;
+}
